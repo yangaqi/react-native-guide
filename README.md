@@ -7,6 +7,11 @@ https://github.com/jondot/awesome-react-native
 
 ## 教程
 
+### React Native
+
+* **React-Native入门指南**
+https://github.com/vczero/react-native-lession
+
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
 
@@ -21,18 +26,6 @@ http://facebook.github.io/react-native/docs/getting-started.html
 
 * react-native 中文api文档 (翻译中)
 https://github.com/ecomfe/react-native-cn
-
-* react.js中文文档
-http://reactjs.cn/
-
-* react.js入门教程(gitbook)
-http://hulufei.gitbooks.io/react-tutorial/content/introduction.html
-
-* **react.js快速入门教程 - 阮一峰**
-http://www.ruanyifeng.com/blog/2015/03/react.html
-
-* react.js视频教程
-http://react.nodejs-china.org/t/reactjszhong-wen-shi-pin-jiao-cheng-bai-du-wang-pan/584
 
 * react-native第一课
 http://html-js.com/article/2783
@@ -76,12 +69,64 @@ http://segmentfault.com/a/1190000002678782
 * React Native构建本地视图组件
 http://www.dobest.me/post/react-native-build-native-componenets/
 
+### 深入浅出系列教程
+
+* 深入浅出React（一）：React的设计哲学 - 简单之美
+http://www.infoq.com/cn/articles/react-art-of-simplity
+
+* 深入浅出React（二）：React开发神器Webpack
+http://www.infoq.com/cn/articles/react-and-webpack
+
+* 深入浅出React（三）：理解JSX和组件
+http://www.infoq.com/cn/articles/react-jsx-and-component
+
+* react-webpack-cookbook中文版
+https://fakefish.github.io/react-webpack-cookbook
+
+* Flex 布局语法教程
+http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
+### React.js
+
+* react.js中文文档
+http://reactjs.cn/
+
+* react.js入门教程(gitbook)
+http://hulufei.gitbooks.io/react-tutorial/content/introduction.html
+
+* **react.js快速入门教程 - 阮一峰**
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+* react.js视频教程
+http://react.nodejs-china.org/t/reactjszhong-wen-shi-pin-jiao-cheng-bai-du-wang-pan/584
+
+### ES6
+
+* 深入浅出ES6（一）：ES6是什么
+http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
+
+* 深入浅出ES6（二）：迭代器和for-of循环
+http://www.infoq.com/cn/articles/es6-in-depth-iterators-and-the-for-of-loop
+
+* 深入浅出ES6（三）：生成器 Generators
+http://www.infoq.com/cn/articles/es6-in-depth-generators
+
+* 深入浅出ES6（四）：模板字符串
+http://www.infoq.com/cn/articles/es6-in-depth-template-string
+
+* 深入浅出ES6（五）：不定参数和默认参数
+http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
+
+
 ## 开源APP
 
 > 研究源码也是一个很好的学习方式
 
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
+
+* react-native-dribbble-app
+https://github.com/catalinmiron/react-native-dribbble-app
 
 * **Leanote for iOS(云笔记)**
 https://github.com/leanote/leanote-ios
@@ -152,8 +197,30 @@ https://github.com/stormhouse/QiuShiReactNative
 * 孢子社区app
 https://github.com/Hi-Rube/baoz-ReactNative
 
-* **深JS app** *
+* **深JS app**
 https://github.com/fraserxu/shenjs
+
+* Den - 房屋销售app*
+https://github.com/asamiller/den
+
+* **Noder-cnodejs客户端**
+https://github.com/soliury/noder-react-native
+
+* 知乎日报Android版
+https://github.com/race604/ZhiHuDaily-React-Native
+
+* ziliun-react-native
+https://github.com/sonnylazuardi/ziliun-react-native
+
+* react-native-weather-app
+https://github.com/shevawen/react-native-weather-app
+
+* React Native Sample App(Navigation,Flux)
+https://github.com/taskrabbit/ReactNativeSampleApp
+
+* TesterHome社区app
+https://github.com/qddegtya/A-ReactNative-TesterHome
+
 
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
@@ -208,12 +275,14 @@ http://facebook.github.io/react-native/
 * **React-China社区**
 http://react-china.org/
 
-
 * **React-native组件库**（比较全的组件库）
 http://react.parts/
 
 * **React Native Modules**
 http://reactnativemodules.com/
+
+* **Use React Native 资讯站**(使用技巧及新闻)
+http://www.reactnative.com/
 
 * 11款React Native开源移动 UI 组件
 http://www.oschina.net/news/61214/11-react-native-ui-components
@@ -230,3 +299,6 @@ http://www.zhihu.com/question/27852694/answer/43990708
 
 * React Native概述：背景、规划和风险
 http://div.io/topic/938
+
+* Native与Web的融合 - Qcon中React-Native演讲
+http://www.infoq.com/cn/presentations/the-fusion-of-native-and-web
